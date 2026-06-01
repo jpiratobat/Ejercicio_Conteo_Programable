@@ -55,5 +55,58 @@ $$
 	-   Mostrar el resultado al usuario.
 6. Si ocurre una entrada inválida, mostrar un mensaje de error.
 
+### Pruebas
+#### Prueba 1
+
+**Entrada**
+
+Tamaño del alfabeto: 26
+
+Longitud: 4
+
+¿Se permite repetición?: S
+
+¿Debe contener dígito?: N
+
+¿Debe contener mayúscula?: N
+
+¿Debe contener símbolo?: N
+
+**Resultado esperado**
+
+$$
+95^4
+$$
+
+**Resultado obtenido**
+
+$$ 81450625 $$
+
+### Prueba 2
+
+**Entrada**
+
+Tamaño del alfabeto: 26
+
+Longitud: 4
+
+¿Se permite repetición?: S
+
+¿Debe contener dígito?: S
+
+¿Debe contener mayúscula?: N
+
+¿Debe contener símbolo?: N
+
+**Resultado esperado**
+
+$$
+95^4-85^4
+$$
+
+**Resultado obtenido**
+
+$$ 29250000 $$
+
 ### Eficiencia del algoritmo
 La complejidad del algoritmo es $O(n)$, donde $n$ corresponde al número utilizado para calcular los factoriales dentro de las permutaciones y la profundidad de la recursión.
