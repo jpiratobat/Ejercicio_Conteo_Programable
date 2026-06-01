@@ -16,4 +16,29 @@ Calcula el número de ordenamientos posibles de elementos con repeticiones utili
 
 - Python 3.10 o superior
 
+## Instalación
+ 
+1. Clona el repositorio:
+   ```bash
+   gh repo clone jpiratobat/Ejercicio_Conteo_Programable
+   cd Ejercicio_Conteo_Programable
+   ```
+ 
+2. Verifica que tienes Python 3.10 o superior instalado:
+   ```bash
+   python --version
+   ```
+ 
 ## Ejecución
+ 
+### Problema 7 — Sistema de conteo de contraseñas
+ 
+```bash
+python Ejercicio_7.py
+```
+ 
+### Problema 9 — Coeficientes multinomiales
+ 
+```bash
+python Ejercicio_9.py
+```
