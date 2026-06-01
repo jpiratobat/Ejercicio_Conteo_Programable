@@ -21,7 +21,60 @@ $$
 5.  Aplicar la fórmula multinomial
 6.  Mostrar el resultado obtenido.
 7. Si ocurre una entrada inválida, mostrar un mensaje de error.
+### Pruebas
+#### Prueba 1
 
+**Entrada**
+
+Opción: 1
+
+Palabra: ANA
+
+**Resultado esperado**
+
+$$
+\frac{3!}{2!1!}=3
+$$
+
+**Resultado obtenido**
+
+$$ 3 $$
+
+#### Prueba 2
+
+**Entrada**
+
+Opción: 1
+
+Palabra: MISSISSIPPI
+
+**Resultado esperado**
+
+$$
+\frac{11!}{4!4!2!1!}=34650
+$$
+
+**Resultado obtenido**
+
+$$ 34650 $$
+
+#### Prueba 3
+
+**Entrada**
+
+Opción: 2
+
+Cantidades: 3,2,1
+
+**Resultado esperado**
+
+$$
+\frac{6!}{3!2!1!}=60
+$$
+
+**Resultado obtenido**
+
+$$ 60 $$
 ### Eficiencia del algoritmo
 El algoritmo calcula factoriales hasta $n$, por lo que su complejidad temporal es $O(n)$. El uso de memoria es $O(1)$, ya que solo almacena unas pocas variables auxiliares.
 
