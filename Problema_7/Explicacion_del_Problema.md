@@ -82,7 +82,7 @@ $$
 
 $$ 81450625 $$
 
-### Prueba 2
+#### Prueba 2
 
 **Entrada**
 
@@ -107,6 +107,31 @@ $$
 **Resultado obtenido**
 
 $$ 29250000 $$
+
+#### Prueba 3
+
+**Entrada**
+
+Tamaño del alfabeto: 26
+
+Longitud: 6
+
+¿Se permite repetición?: S
+
+¿Debe contener dígito?: S
+
+¿Debe contener mayúscula?: S
+
+¿Debe contener símbolo?: S
+
+**Resultado esperado**
+
+$$ 95^6−85^6−69^6−62^6+59^6+52^6+36^6−26^6 $$
+
+**Resultado obtenido**
+
+$$ 257042986200 $$
+
 
 ### Eficiencia del algoritmo
 La complejidad del algoritmo es $O(n)$, donde $n$ corresponde al número utilizado para calcular los factoriales dentro de las permutaciones y la profundidad de la recursión.
