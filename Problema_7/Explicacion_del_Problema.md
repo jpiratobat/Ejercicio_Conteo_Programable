@@ -1,4 +1,4 @@
-## Problema 7: Sistema de conteo de contraseñas
+## Problema 4: Sistema de conteo de contraseñas
 Este programa calcula la cantidad de contraseñas posibles a partir de un conjunto de caracteres definido por:
 1. Letras en mayúsculas: A a Z (26 caracteres) - **_Variable_**
 2. Letras en minúsculas: a a z (26 caracteres) - **_Variable_**
