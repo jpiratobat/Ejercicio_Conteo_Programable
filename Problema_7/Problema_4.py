@@ -1,4 +1,4 @@
-# Problema 7: Sistema de conteo de contraseñas
+# Problema 4: Sistema de conteo de contraseñas
 #
 # Este programa calcula la cantidad de contraseñas posibles
 # bajo diferentes restricciones de construcción.
