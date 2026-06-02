@@ -6,7 +6,7 @@ Autor: Jorge Piratoba
 
 Este repositorio contiene la solución de dos problemas de conteo:
 
-### Problema 7: Sistema de conteo de contraseñas
+### Problema 4: Sistema de conteo de contraseñas
 Calcula el número de contraseñas posibles bajo diferentes restricciones utilizando permutaciones y el principio de inclusión-exclusión.
 
 ### Problema 9: Coeficientes multinomiales
