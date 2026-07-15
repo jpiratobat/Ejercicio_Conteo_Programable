@@ -20,7 +20,7 @@ Calcula el número de ordenamientos posibles de elementos con repeticiones utili
  
 1. Clona el repositorio:
    ```bash
-   gh repo clone jpiratobat/Ejercicio_Conteo_Programable
+   git clone https://github.com/jpiratobat/Ejercicio_Conteo_Programable.git
    cd Ejercicio_Conteo_Programable
    ```
  
